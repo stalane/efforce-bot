@@ -39,7 +39,7 @@ module.exports = {
 }
 ```
 
-In between those quotes, instead of `'blah'`, paste the appropriate info from the Details page. This is essentially the login information for the app.
+In between those quotes, instead of `'replace'`, paste the appropriate info from the Details page. This is essentially the login information for the app.
 
 Now type the following in the command line in your project directory:
 
