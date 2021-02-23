@@ -1,4 +1,4 @@
-# EfforceBot
+# Efforce Daily Retweet Bot
 
 This bot retweets the latest tweet using the ["`#efforce`"][twitter-efforceofficial] hashtag. It attempts to retweet once per day.
 
@@ -32,10 +32,10 @@ Now use a text editor to open up the "config.js" file. It should look like this:
 
 ```javascript
 module.exports = {
-  consumer_key:         'blah',
-  consumer_secret:      'blah',
-  access_token:         'blah',
-  access_token_secret:  'blah'
+  consumer_key:         'replace',
+  consumer_secret:      'replace',
+  access_token:         'replace',
+  access_token_secret:  'replace'
 }
 ```
 
