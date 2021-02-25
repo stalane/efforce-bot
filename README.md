@@ -1,6 +1,6 @@
 # Efforce Retweet Bot (Daily)
 
-This bot retweets the latest tweet using the ["`#efforce`"][twitter-efforceofficial] hashtag. It attempts to retweet once per day.
+This bot retweets the latest tweet using the ["`#efforce`"][twitter-efforceofficial] hashtag. It attempts to retweet only once per day. You can change the frequency at the bottom of the script. 
 
 _Note: you must be comfortable using your computer's command line interface to use this bot. If you've never used it, there are tutorials for [macOS](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) and [Windows](http://www.bleepingcomputer.com/tutorials/windows-command-prompt-introduction/)._
 
