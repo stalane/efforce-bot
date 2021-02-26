@@ -1,4 +1,4 @@
-# Efforce Retweet Bot (Daily)
+# Retweet Bot (Daily)
 
 This bot retweets the latest tweet using the ["`#efforce`"][twitter-efforceofficial] hashtag. It attempts to retweet only once per day. You can change the frequency at the bottom of the script. 
 
