@@ -49,4 +49,4 @@ Hopefully at this point you see a message like "Success! Check your bot, it shou
 
 [twitter-efforce]:https://twitter.com/hashtag/efforce
 
-If you would like to change this to hourly just delete the * 24 at the end of the script. 
+If you would like to change this bot to hourly retweets just delete the * 24 at the end of the script. Simple!
