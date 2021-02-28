@@ -48,3 +48,5 @@ Now type the following in the command line in your project directory:
 Hopefully at this point you see a message like "Success! Check your bot, it should have retweeted something." Check the Twitter account for your bot, and it should have retweeted a tweet with the #efforce hashtag.
 
 [twitter-efforce]:https://twitter.com/hashtag/efforce
+
+If you would like to change this to hourly just delete the * 24 at the end of the script. 
